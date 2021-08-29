@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @BL4Z325452
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+BL4Z325452/BL4Z325452 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+---> Je suis de Paris, France.
+J'ai treze ans
+IM un programmeur
+Je parle français, anglais, italien et espagnol
